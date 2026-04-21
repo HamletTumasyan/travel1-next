@@ -1,0 +1,77 @@
+.contactTitle {
+  margin-top: 30px;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  letter-spacing: 2px;
+  color: #55adc8;
+  text-transform: uppercase;
+  text-shadow: 5px 5px 10px #55adc8;
+  margin-bottom: 40px;
+}
+
+.form {
+  width: 440px;
+  margin: 40px auto;
+  padding: 20px;
+  border-radius: 22px;
+  border: 1px solid #55adc8;
+  display: flex;
+  flex-direction: column;
+  gap: 22px;
+  transition: 0.4s ease;
+}
+
+.input,
+.textarea {
+  width: 100%;
+  padding: 14px 18px;
+  border: none;
+  outline: none;
+  border-radius: 12px;
+  font-size: 16px;
+  font-family: "Poppins", sans-serif;
+  color: #55adc8;
+  box-shadow: 0 0 0 1px rgba(0, 132, 255, 0.3);
+  transition: 0.3s;
+}
+
+.input::placeholder,
+.textarea::placeholder {
+  color: #55adc8;
+}
+
+.input:focus,
+.textarea:focus {
+  box-shadow: 0 0 10px rgba(0, 132, 255, 0.8);
+}
+
+.textarea {
+  min-height: 120px;
+}
+
+.btn {
+  margin-top: 10px;
+  padding: 14px;
+  border: none;
+  border-radius: 12px;
+  cursor: pointer;
+  font-size: 17px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  background: #55adc8;
+  background-size: 300% 100%;
+  color: white;
+  transition: 0.5s;
+  box-shadow: 0 0 15px rgba(0, 140, 255, 0.5), 0 0 30px rgba(255, 94, 0, 0.2);
+  animation: gradientMove 6s infinite linear;
+}
+
+.btn:hover {
+  transform: scale(1.02);
+  box-shadow: 0 0 25px rgba(36, 138, 255, 0.8),
+    0 0 45px rgba(0, 47, 255, 0.3);
+  background-position: 100% 0%;
+}
+

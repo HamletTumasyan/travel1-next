@@ -1,0 +1,75 @@
+.Packages {
+  padding: 4rem 5%;
+  min-height: 50vh;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: center;
+}
+
+.container .item {
+  position: relative;
+  flex: 1 1 20rem;
+  height: 20rem;
+  overflow: hidden;
+  transition: transform 0.5s ease, box-shadow 0.5s ease;
+  cursor: pointer;
+}
+
+.container .item .discount {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 1rem;
+  right: 1rem;
+  padding-top: 15px;
+  font-size: 1rem;
+  text-align: center;
+  font-weight: 700;
+  color: white;
+  border: 2px solid white;
+  border-radius: 50%;
+  z-index: 3;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.container .item .content {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  padding: 1rem 1.5rem;
+  background: #55adc8b2;
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  transition: all 0.6s ease;
+  font-weight: 800;
+  font-family: "Poppins", sans-serif;
+}
+
+.container .item:hover .content {
+  background-color: white;
+  color: #55adc8;
+  border-bottom: 1px solid gray;
+}
+
+.container .item .title {
+  font-size: 1.4rem;
+  letter-spacing: 0.5px;
+}
+
+.heartIcon {
+  font-size: 20px;
+  color: white;
+  transition: color 0.3s;
+  cursor: pointer;
+}
+
+.item:hover .heartIcon {
+  color: #55adc8b2;
+}

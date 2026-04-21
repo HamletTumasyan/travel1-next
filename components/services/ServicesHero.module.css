@@ -1,0 +1,12 @@
+.packages{
+    height: 350px;
+    overflow: hidden;
+}
+
+.heading{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    margin-top: 170px;
+    font-size: 10vh;
+    text-decoration: underline;
+}

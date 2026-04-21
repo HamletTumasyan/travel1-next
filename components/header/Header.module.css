@@ -1,0 +1,88 @@
+.Header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 60px;
+  background-color: white;
+  z-index: 1000;
+  box-shadow: 1px 1px 1px #55adc8;
+}
+
+.logo img {
+  width: 120px;
+  
+}
+
+.navbar {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.navbar a {
+  font-size: 19px;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 600;
+  text-transform: uppercase;
+  color: #55adc8;
+}
+
+.languageDropdown {
+  position: relative;
+  font-family: "Poppins", sans-serif;
+  color: #fff;
+  cursor: pointer;
+  user-select: none;
+}
+
+.languageDropdown * {
+  text-transform: uppercase;
+}
+
+.selectedLang img {
+  margin-top: 7px;
+  width: 40px;
+  transition: background 0.3s, transform 0.2s, box-shadow 0.3s;
+}
+
+.selectedLang:hover img {
+  transform: scale(1.05);
+}
+
+.dropdownMenu {
+  position: absolute;
+  top: 100%;
+  left: -100%;
+  text-align: center;
+  background: rgb(248, 248, 248);
+  border-radius: 12px;
+  overflow: hidden;
+  min-width: 120px;
+  display: none;
+  flex-direction: column;
+  box-shadow: 0 2px 5px #55adc8;
+  z-index: 10;
+}
+
+.languageDropdown:hover .dropdownMenu {
+  display: flex;
+}
+
+.dropdownMenu p {
+  padding: 12px 20px;
+  font-size: 16px;
+  font-weight: 500;
+  color: #55adc8;
+  margin: 0;
+  transition: background 0.3s, color 0.3s;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.dropdownMenu p:hover {
+  background: rgb(223, 223, 223);
+  transform: scale(1.05);
+  cursor: pointer;
+}

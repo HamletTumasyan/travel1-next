@@ -1,0 +1,13 @@
+.packages{
+    height: 350px;
+    border: 1px solid;
+}
+
+
+.heading{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    margin-top: 170px;
+    font-size: 10vh;
+    text-decoration: underline;
+}

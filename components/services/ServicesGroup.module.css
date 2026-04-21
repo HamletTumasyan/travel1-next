@@ -1,0 +1,75 @@
+.groupContent {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 70px;
+  padding: 60px 5%;
+}
+
+
+.groupLeft {
+  width: 900px;
+}
+
+.groupImageContainer {
+  width: 100%;
+  overflow: hidden;
+}
+
+.groupImage {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.packageTitle {
+  font-size: 1.9rem;
+  font-weight: 700;
+  margin-bottom: 12px;
+  margin-top: 20px;
+  color: #55adc8;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.priceValue {
+  font-size: 1.5rem;
+  color: #55adc8;
+  font-weight: 700;
+  margin-left: 6px;
+}
+
+.stars {
+  display: flex;
+  gap: 3px;
+  margin-bottom: 18px;
+}
+
+.star {
+  color: #f8d231;
+  font-size: 25px;
+}
+
+.groupDescription {
+  color: #55adc8;
+  font-size: 1.8rem;
+}
+
+
+.groupRight {
+  display: flex;
+  flex-direction: column;
+}
+
+.rightImageStack {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+}
+
+.rightImage {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}

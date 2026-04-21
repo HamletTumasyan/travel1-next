@@ -1,0 +1,1098 @@
+{
+  "logo": {
+    "id": 1,
+    "image": "/images/header/logo.png"
+  },
+  "navbar": [
+    {
+      "id": 1,
+      "lang": "en",
+      "title": "Home",
+      "route": "/"
+    },
+    {
+      "id": 2,
+      "lang": "en",
+      "title": "Packages",
+      "route": "/packages"
+    },
+    {
+      "id": 3,
+      "lang": "en",
+      "title": "Services",
+      "route": "/services"
+    },
+    {
+      "id": 4,
+      "lang": "en",
+      "title": "About",
+      "route": "/about"
+    },
+    {
+      "id": 5,
+      "lang": "en",
+      "title": "Contact",
+      "route": "/contact"
+    },
+    {
+      "id": 6,
+      "lang": "am",
+      "title": "Գլխավոր",
+      "route": "/"
+    },
+    {
+      "id": 7,
+      "lang": "am",
+      "title": "Փաթեթներ",
+      "route": "/packages"
+    },
+    {
+      "id": 8,
+      "lang": "am",
+      "title": "Ծառայություններ",
+      "route": "/services"
+    },
+    {
+      "id": 9,
+      "lang": "am",
+      "title": "Մեր մասին",
+      "route": "/about"
+    },
+    {
+      "id": 10,
+      "lang": "am",
+      "title": "Կապ",
+      "route": "/contact"
+    }
+  ],
+  "langs": [
+    {
+      "id": 1,
+      "code": "en"
+    },
+    {
+      "id": 2,
+      "code": "am"
+    }
+  ],
+
+  "footer": [
+    {
+      "id": 1,
+      "lang": "en",
+      "title": "TRAVEL",
+      "credit": "Created by Hamlet Tumasyan | all rights reserved!",
+      "social_links": [
+        {
+          "id": 1,
+          "image": "/images/footer/facebook.svg",
+          "url": "https://www.facebook.com/?locale=ru_RU"
+        },
+        {
+          "id": 2,
+          "image": "/images/footer/instagram.svg",
+          "url": "https://www.instagram.com/"
+        },
+        {
+          "id": 3,
+          "image": "/images/footer/twitter.svg",
+          "url": "https://x.com/"
+        },
+        {
+          "id": 4,
+          "image": "/images/footer/telegram.svg",
+          "url": "https://telegram.com/"
+        },
+        {
+          "id": 5,
+          "image": "/images/footer/linkedin.svg",
+          "url": "https://www.linkedin.com/"
+        }
+      ],
+      "contact": [
+        {
+          "id": 1,
+          "image": "/images/footer/viber.svg",
+          "text": "+374 77-77-77-77"
+        },
+        {
+          "id": 2,
+          "image": "/images/footer/location.svg",
+          "text": "Armenia"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "lang": "am",
+      "title": "TRAVEL",
+      "credit": "Ստեղծվել է Համլետ Թումասյանի կողմից | Բոլոր իրավունքները պաշտպանված են!",
+      "social_links": [
+        {
+          "id": 1,
+          "image": "/images/footer/facebook.svg",
+          "url": "https://www.facebook.com/?locale=ru_RU"
+        },
+        {
+          "id": 2,
+          "image": "/images/footer/instagram.svg",
+          "url": "https://www.instagram.com/"
+        },
+        {
+          "id": 3,
+          "image": "/images/footer/twitter.svg",
+          "url": "https://x.com/"
+        },
+        {
+          "id": 4,
+          "image": "/images/footer/telegram.svg",
+          "url": "https://telegram.com/"
+        },
+        {
+          "id": 5,
+          "image": "/images/footer/linkedin.svg",
+          "url": "https://www.linkedin.com/"
+        }
+      ],
+      "contact": [
+        {
+          "id": 1,
+          "image": "/images/footer/viber.svg",
+          "text": "+374 77-77-77-77"
+        },
+        {
+          "id": 2,
+          "image": "/images/footer/location.svg",
+          "text": "Հայաստան"
+        }
+      ]
+    }
+  ],
+
+  "homepage_slider": [
+    {
+      "id": 1,
+      "lang": "en",
+      "title": "Discover Destinations",
+      "descr": "Explore breathtaking places around the world.",
+      "image": "images/homepage/slider/slide1.jpg"
+    },
+    {
+      "id": 2,
+      "lang": "en",
+      "title": "Plan Your Journey",
+      "descr": "Find the perfect trip tailored to your dreams.",
+      "image": "images/homepage/slider/slide2.jpg"
+    },
+    {
+      "id": 3,
+      "lang": "en",
+      "title": "Start the Adventure",
+      "descr": "Travel beyond borders and create lasting memories.",
+      "image": "images/homepage/slider/slide3.jpg"
+    },
+    {
+      "id": 4,
+      "lang": "am",
+      "title": "Բացահայտիր Ուղևորությունները",
+      "descr": "Բացահայտիր շշմեցնող վայրեր ամբողջ աշխարհով մեկ։",
+      "image": "images/homepage/slider/slide1.jpg"
+    },
+    {
+      "id": 5,
+      "lang": "am",
+      "title": "Պլանավորիր Քո Ճանապարհորդությունը",
+      "descr": "Գտիր ճամփորդություն՝ հարմարեցված քո երազանքներին։",
+      "image": "images/homepage/slider/slide2.jpg"
+    },
+    {
+      "id": 6,
+      "lang": "am",
+      "title": "Սկսիր Արկածը",
+      "descr": "Ճամփորդիր սահմաններից դուրս և ստեղծիր հիշարժան պահեր։",
+      "image": "images/homepage/slider/slide3.jpg"
+    }
+  ],
+  "homepage_package_heading": [
+    {
+      "id": 1,
+      "lang": "en",
+      "title": "Packages"
+    },
+    {
+      "id": 2,
+      "lang": "am",
+      "title": "Փաթեթներ"
+    }
+  ],
+  "homepage_packages": [
+    {
+      "id": 1,
+      "lang": "en",
+      "discount": "25%",
+      "image": "images/homepage/packages/france.jpg",
+      "title": "France"
+    },
+    {
+      "id": 2,
+      "lang": "en",
+      "discount": "15%",
+      "image": "images/homepage/packages/italy.jpg",
+      "title": "Italy"
+    },
+    {
+      "id": 3,
+      "lang": "en",
+      "discount": "20%",
+      "image": "images/homepage/packages/maldives.jpg",
+      "title": "Maldives"
+    },
+    {
+      "id": 4,
+      "lang": "en",
+      "discount": "30%",
+      "image": "images/homepage/packages/switzerland.jpg",
+      "title": "Switzerland"
+    },
+    {
+      "id": 5,
+      "lang": "en",
+      "discount": "10%",
+      "image": "images/homepage/packages/japan.jpg",
+      "title": "Japan"
+    },
+    {
+      "id": 6,
+      "lang": "en",
+      "discount": "20%",
+      "image": "images/homepage/packages/greece.jpg",
+      "title": "Greece"
+    },
+    {
+      "id": 7,
+      "lang": "en",
+      "discount": "15%",
+      "image": "images/homepage/packages/thailand.jpg",
+      "title": "Thailand"
+    },
+    {
+      "id": 8,
+      "lang": "en",
+      "discount": "25%",
+      "image": "images/homepage/packages/egypt.jpg",
+      "title": "Egypt"
+    },
+    {
+      "id": 9,
+      "lang": "am",
+      "discount": "25%",
+      "image": "images/homepage/packages/france.jpg",
+      "title": "Ֆրանսիա"
+    },
+    {
+      "id": 10,
+      "lang": "am",
+      "discount": "15%",
+      "image": "images/homepage/packages/italy.jpg",
+      "title": "Իտալիա"
+    },
+    {
+      "id": 11,
+      "lang": "am",
+      "discount": "20%",
+      "image": "images/homepage/packages/maldives.jpg",
+      "title": "Մալդիվներ"
+    },
+    {
+      "id": 12,
+      "lang": "am",
+      "discount": "30%",
+      "image": "images/homepage/packages/switzerland.jpg",
+      "title": "Շվեյցարիա"
+    },
+    {
+      "id": 13,
+      "lang": "am",
+      "discount": "10%",
+      "image": "images/homepage/packages/japan.jpg",
+      "title": "Ճապոնիա"
+    },
+    {
+      "id": 14,
+      "lang": "am",
+      "discount": "20%",
+      "image": "images/homepage/packages/greece.jpg",
+      "title": "Հունաստան"
+    },
+    {
+      "id": 15,
+      "lang": "am",
+      "discount": "15%",
+      "image": "images/homepage/packages/thailand.jpg",
+      "title": "Թաիլանդ"
+    },
+    {
+      "id": 16,
+      "lang": "am",
+      "discount": "25%",
+      "image": "images/homepage/packages/egypt.jpg",
+      "title": "Եգիպտոս"
+    }
+  ],
+  "homepage_details": [
+    {
+      "id": 1,
+      "lang": "en",
+      "description": "Before organizing the event, it is important to clearly define its purpose. Then, a detailed budget should be prepared, including all major expenses. In addition, it is advisable to have a contingency fund in case of unexpected costs or changes."
+    },
+    {
+      "id": 1,
+      "lang": "am",
+      "description": "Նախքան միջոցառման կազմակերպումը, անհրաժեշտ է կազմել մանրամասն բյուջե, որտեղ ներառված կլինեն բոլոր հիմնական ծախսերը։ Բացի դրանից, ցանկալի է ունենալ պահուստային ֆոնդ՝ անսպասելի ծախսերի կամ փոփոխությունների դեպքում"
+    }
+  ],
+  "homepage_gallery_heading": [
+    {
+      "id": 1,
+      "lang": "en",
+      "title": "Gallery"
+    },
+    {
+      "id": 2,
+      "lang": "am",
+      "title": "Պատկերասրահ"
+    }
+  ],
+  "homepage_gallery": [
+    {
+      "id": 1,
+      "lang": "en",
+      "title": "French Polynesia",
+      "subtitle": "Bora Bora",
+      "image": "/images/homepage/gallery/gallery1.jpg",
+      "category": "Beach"
+    },
+    {
+      "id": 2,
+      "lang": "en",
+      "title": "Maldives",
+      "subtitle": "Meeru Island",
+      "image": "/images/homepage/gallery/gallery2.jpg",
+      "category": "Beach"
+    },
+    {
+      "id": 3,
+      "lang": "en",
+      "title": "Thailand",
+      "subtitle": "Phuket",
+      "image": "/images/homepage/gallery/gallery3.jpg",
+      "category": "Beach"
+    },
+    {
+      "id": 4,
+      "lang": "en",
+      "title": "Greece",
+      "subtitle": "Santorini",
+      "image": "/images/homepage/gallery/gallery4.jpg",
+      "category": "Island"
+    },
+    {
+      "id": 5,
+      "lang": "en",
+      "title": "France",
+      "subtitle": "Colmar",
+      "image": "/images/homepage/gallery/gallery5.jpg",
+      "category": "City"
+    },
+    {
+      "id": 6,
+      "lang": "en",
+      "title": "Egypt",
+      "subtitle": "Sharm El Sheikh",
+      "image": "/images/homepage/gallery/gallery6.jpg",
+      "category": "Resort"
+    },
+    {
+      "id": 7,
+      "lang": "am",
+      "title": "Ֆրանսիական Պոլինեզիա",
+      "subtitle": "Բորա Բորա",
+      "image": "/images/homepage/gallery/gallery1.jpg",
+      "category": "Ափ"
+    },
+    {
+      "id": 8,
+      "lang": "am",
+      "title": "Մալդիվներ",
+      "subtitle": "Մերու կղզի",
+      "image": "/images/homepage/gallery/gallery2.jpg",
+      "category": "Ափ"
+    },
+    {
+      "id": 9,
+      "lang": "am",
+      "title": "Թաիլանդ",
+      "subtitle": "Փուքեթ",
+      "image": "/images/homepage/gallery/gallery3.jpg",
+      "category": "Ափ"
+    },
+    {
+      "id": 10,
+      "lang": "am",
+      "title": "Հունաստան",
+      "subtitle": "Սանտորինի",
+      "image": "/images/homepage/gallery/gallery4.jpg",
+      "category": "Կղզի"
+    },
+    {
+      "id": 11,
+      "lang": "am",
+      "title": "Ֆրանսիա",
+      "subtitle": "Կոլմար",
+      "image": "/images/homepage/gallery/gallery5.jpg",
+      "category": "Քաղաք"
+    },
+    {
+      "id": 12,
+      "lang": "am",
+      "title": "Եգիպտոս",
+      "subtitle": "Շարմ էլ Շեյխ",
+      "image": "/images/homepage/gallery/gallery6.jpg",
+      "category": "Ռեզորթ"
+    }
+  ],
+
+  "packages_hero": [
+    {
+      "id": "1",
+      "lang": "en",
+      "image": "images/packages/losangeles.jpg",
+      "text": "PACKAGES"
+    },
+    {
+      "id": "2",
+      "lang": "am",
+      "image": "images/packages/losangeles.jpg",
+      "text": "Փաթեթներ"
+    }
+  ],
+  "packages_content1": [
+    {
+      "id": "1",
+      "lang": "en",
+      "discount": "10%",
+      "image": "images/packages/dubai.jpg",
+      "title": "Dubai",
+      "price": 12.99
+    },
+    {
+      "id": "2",
+      "lang": "am",
+      "discount": "10%",
+      "image": "images/packages/dubai.jpg",
+      "title": "Դուբայ",
+      "price": 12.99
+    },
+    {
+      "id": "3",
+      "lang": "en",
+      "discount": "15%",
+      "image": "images/packages/egipet.jpg",
+      "title": "Egypt",
+      "price": 15.49
+    },
+    {
+      "id": "4",
+      "lang": "am",
+      "discount": "15%",
+      "image": "images/packages/egipet.jpg",
+      "title": "Եգիպտոս",
+      "price": 15.49
+    },
+    {
+      "id": "5",
+      "lang": "en",
+      "discount": "20%",
+      "image": "images/packages/florida.jpg",
+      "title": "Florida",
+      "price": 19.99
+    },
+    {
+      "id": "6",
+      "lang": "am",
+      "discount": "20%",
+      "image": "images/packages/florida.jpg",
+      "title": "Ֆլորիդա",
+      "price": 19.99
+    },
+    {
+      "id": "7",
+      "lang": "en",
+      "discount": "15%",
+      "image": "images/packages/italia.jpg",
+      "title": "Italy",
+      "price": 14.99
+    },
+    {
+      "id": "8",
+      "lang": "am",
+      "discount": "15%",
+      "image": "images/packages/italia.jpg",
+      "title": "Իտալիա",
+      "price": 14.99
+    },
+    {
+      "id": "18",
+      "lang": "en",
+      "discount": "30%",
+      "image": "images/packages/sevan.jpg",
+      "title": "Sevan",
+      "price": 8.99
+    },
+
+    {
+      "id": "10",
+      "lang": "am",
+      "discount": "30%",
+      "image": "images/packages/sevan.jpg",
+      "title": "Սևան",
+      "price": 8.99
+    },
+    {
+      "id": "19",
+      "lang": "en",
+      "discount": "15%",
+      "image": "images/packages/london.jpg",
+      "title": "London",
+      "price": 16.49
+    },
+    {
+      "id": "11",
+      "lang": "am",
+      "discount": "15%",
+      "image": "images/packages/london.jpg",
+      "title": "Լոնդոն",
+      "price": 16.49
+    },
+    {
+      "id": "12",
+      "lang": "en",
+      "discount": "10%",
+      "image": "images/packages/parij.jpg",
+      "title": "Paris",
+      "price": 14.99
+    },
+    {
+      "id": "13",
+      "lang": "am",
+      "discount": "10%",
+      "image": "images/packages/parij.jpg",
+      "title": "Փարիզ",
+      "price": 14.99
+    },
+    {
+      "id": "14",
+      "lang": "en",
+      "discount": "25%",
+      "image": "images/packages/pekin.jpg",
+      "title": "Pekin",
+      "price": 17.99
+    },
+    {
+      "id": "15",
+      "lang": "am",
+      "discount": "25%",
+      "image": "images/packages/pekin.jpg",
+      "title": "Պեկին",
+      "price": 17.99
+    },
+    {
+      "id": "16",
+      "lang": "am",
+      "discount": "30%",
+      "image": "images/packages/tailand.jpeg",
+      "title": "Թայլանդ",
+      "price": 14.99
+    },
+    {
+      "id": "17",
+      "lang": "en",
+      "discount": "30%",
+      "image": "images/packages/tailand.jpeg",
+      "title": "Tailand",
+      "price": 17.99
+    }
+  ],
+  "packages_details": [
+    {
+      "id": 1,
+      "lang": "en",
+      "description": "Before organizing the event, it is important to clearly define its purpose. Then, a detailed budget should be prepared, including all major expenses. In addition, it is advisable to have a contingency fund in case of unexpected costs or changes."
+    },
+    {
+      "id": 1,
+      "lang": "am",
+      "description": "Նախքան միջոցառման կազմակերպումը, անհրաժեշտ է կազմել մանրամասն բյուջե, որտեղ ներառված կլինեն բոլոր հիմնական ծախսերը։ Բացի դրանից, ցանկալի է ունենալ պահուստային ֆոնդ՝ անսպասելի ծախսերի կամ փոփոխությունների դեպքում"
+    }
+  ],
+  "packages_content2": [
+    {
+      "id": "1",
+      "lang": "en",
+      "discount": "10%",
+      "image": "images/packages/sochi.jpg",
+      "title": "Sochi",
+      "price": 12.99
+    },
+    {
+      "id": "2",
+      "lang": "en",
+      "discount": "15%",
+      "image": "images/packages/california.jpg",
+      "title": "California",
+      "price": 15.49
+    },
+    {
+      "id": "3",
+      "lang": "en",
+      "discount": "20%",
+      "image": "images/packages/vietnam.jpg",
+      "title": "Vietnam",
+      "price": 13.99
+    },
+    {
+      "id": "4",
+      "lang": "am",
+      "discount": "10%",
+      "image": "images/packages/sochi.jpg",
+      "title": "Սոչի",
+      "price": 12.99
+    },
+    {
+      "id": "5",
+      "lang": "am",
+      "discount": "15%",
+      "image": "images/packages/california.jpg",
+      "title": "Կալիֆորնիա",
+      "price": 15.49
+    },
+    {
+      "id": "6",
+      "lang": "am",
+      "discount": "15%",
+      "image": "images/packages/vietnam.jpg",
+      "title": "Վիետնամ",
+      "price": 15.49
+    }
+  ],
+
+  "about_hero": [
+    {
+      "id": 1,
+      "lang": "en",
+      "title": "ABOUT US",
+      "image": "/images/about/abouthero.jpg"
+    },
+
+    {
+      "id": 2,
+      "lang": "am",
+      "title": " ՄԵՐ ՄԱՍԻՆ",
+      "image": "/images/about/abouthero.jpg"
+    }
+  ],
+  "about_team": [
+    {
+      "id": 1,
+      "lang": "en",
+      "name": "Lala Ohanjanyan",
+      "profession": "Administrator",
+      "image": "/images/about/team1.jpg"
+    },
+
+    {
+      "id": 2,
+      "lang": "en",
+      "name": "Artur Hovsepyan",
+      "profession": "Director",
+      "image": "/images/about/team3.png"
+    },
+
+    {
+      "id": 3,
+      "lang": "en",
+      "name": "Ani Meloyan",
+      "profession": "Meneger",
+      "image": "/images/about/team2.png"
+    },
+
+    {
+      "id": 4,
+      "lang": "en",
+      "name": "Astxik Stepanyan",
+      "profession": "Assistant Manager",
+      "image": "/images/about/team5.jpg"
+    },
+
+    {
+      "id": 5,
+      "lang": "en",
+      "name": "Aram Babayan",
+      "profession": "Assistant Manager",
+      "image": "/images/about/team4.jpg"
+    },
+
+    {
+      "id": 6,
+      "lang": "am",
+      "name": "Լալա Օհանջանյան",
+      "profession": "Ադմինիստրարոր",
+      "image": "/images/about/team1.jpg"
+    },
+
+    {
+      "id": 7,
+      "lang": "am",
+      "name": "Արթուր Հովսեփյան",
+      "profession": "Տնօրեն",
+      "image": "/images/about/team3.png"
+    },
+
+    {
+      "id": 8,
+      "lang": "am",
+      "name": "Անի Մելոյան",
+      "profession": "Մենեջեռ",
+      "image": "/images/about/team2.png"
+    },
+
+    {
+      "id": 9,
+      "lang": "am",
+      "name": "Աստղիկ Ստեփանյան",
+      "profession": "Մենեջեռի օգնական",
+      "image": "/images/about/team5.jpg"
+    },
+
+    {
+      "id": 10,
+      "lang": "am",
+      "name": "Արամ Բաբայան",
+      "profession": "Մենեջեռի օգնական",
+      "image": "/images/about/team4.jpg"
+    }
+  ],
+  "about_details": [
+    {
+      "id": 1,
+      "lang": "en",
+      "description": "I love traveling because discovering the world and new cultures is very interesting. It is also great to meet new people and spend time in different places:"
+    },
+    {
+      "id": 1,
+      "lang": "am",
+      "description": " Ես սիրում եմ ճանապարհորդել, որովհետև աշխարհն ու նոր մշակույթները ճանաչելը շատ հետաքրքիր է։ Չափազանց լավ է նոր մարդկանց հանդիպելը և նոր վայրերում ժամանակ անցկացնելը։"
+    }
+  ],
+  "about_group_section": [
+    {
+      "id": 1,
+      "lang": "en",
+      "title": "CHOOSE DATE, VENUE, AND VENDORS",
+      "image": "/images/about/group1.jpg",
+      "text": "Pick a suitable date, secure a venue, and book key vendors like catering. Pick asuitable date, secure a venue, and book key vendors like catering, entertainment, and photographers, early. Pick a suitable date, secure a venue, and book key vendors like catering, entertainment, and photographers early. Pick a suitable date"
+    },
+    {
+      "id": 2,
+      "lang": "en",
+      "title": "CHOOSE DATE, VENUE, AND VENDORS",
+      "image": "/images/about/group2.jpg",
+      "text": "Pick a suitable date, secure a venue, and book key vendors like catering. Pick asuitable date, secure a venue, and book key vendors like catering, entertainment, and photographers, early. Pick a suitable date, secure a venue, and book key vendors like catering, entertainment, and photographers early. Pick a suitable date."
+    },
+    {
+      "id": 3,
+      "lang": "am",
+      "title": "ԸՆՏՐԵԼ ՕՐ, ՄԵՆՅՈՒ ԵՎ ԾԱՌԱՅՈՒԹՅՈՒՆՆԵՐ",
+      "image": "/images/about/group1.jpg",
+      "text": "Ընտրեք հարմար ամսաթիվ, ամրագրեք վայր և ամրագրեք հիմնական մատակարարներ, ինչպիսիք են սննդի մատակարարումը, զվարճանքի և լուսանկարիչների ծառայությունները, վաղ։ Ընտրեք հարմար ամսաթիվ, ամրագրեք վայր և վաղ ամրագրեք հիմնական մատակարարներ, ինչպիսիք են սննդի մատակարարումը, զվարճանքի և լուսանկարիչների ծառայությունները։ Ընտրեք հարմար ամսաթիվ։"
+    },
+    {
+      "id": 4,
+      "lang": "am",
+      "title": "ԸՆՏՐԵԼ ՕՐ, ՄԵՆՅՈՒ ԵՎ ԾԱՌԱՅՈՒԹՅՈՒՆՆԵՐ",
+      "image": "/images/about/group2.jpg",
+      "text": "Ընտրեք հարմար ամսաթիվ, ամրագրեք վայր և ամրագրեք հիմնական մատակարարներ, ինչպիսիք են սննդի մատակարարումը, զվարճանքի և լուսանկարիչների ծառայությունները, վաղ։ Ընտրեք հարմար ամսաթիվ, ամրագրեք վայր և վաղ ամրագրեք հիմնական մատակարարներ, ինչպիսիք են սննդի մատակարարումը, զվարճանքի և լուսանկարիչների ծառայությունները։ Ընտրեք հարմար ամսաթիվ։"
+    }
+  ],
+
+  "services_hero": [
+    {
+      "id": "1",
+      "lang": "en",
+      "image": "images/services/singapur.jpg",
+      "text": "SERVICES"
+    },
+    {
+      "id": "2",
+      "lang": "am",
+      "image": "images/services/singapur.jpg",
+      "text": "Ծառայություններ"
+    }
+  ],
+  "services_group_section": [
+    {
+      "id": 1,
+      "lang": "en",
+      "image": "images/services/hongkong.jpg",
+      "title": "Choose Date, Venue, and Vendors",
+      "price_title": "Price",
+      "price": 3700,
+      "description": "Pick a suitable date, secure a venue, and book key vendors like catering, entertainment, and photographers early.",
+      "images_cont": [
+        { "img": "images/services/france.jpg" },
+        { "img": "images/services/batumi.jpg" },
+        { "img": "images/services/hongkong.jpg" }
+      ]
+    },
+    {
+      "id": 1,
+      "lang": "am",
+      "image": "images/services/hongkong.jpg",
+      "title": "Ընտրեք ամսաթիվը, վայրը և մատակարարները",
+      "price_title": "Գինը",
+      "price": 3700,
+      "description": "Ընտրեք հարմար ամսաթիվ, ամրագրեք վայրը և վաղաժամկետ պատվիրեք հիմնական վստահելի մատակարարներին։",
+      "images_cont": [
+        { "img": "images/services/france.jpg" },
+        { "img": "images/services/batumi.jpg" },
+        { "img": "images/services/hongkong.jpg" }
+      ]
+    }
+  ],
+  "services_details": [
+    {
+      "id": "1",
+      "lang": "am",
+      "description": "Բացահայտիր աշխարհը վստահությամբ․ մենք հոգ կտանենք յուրաքանչյուր մանրուքի մասին՝ ապահովելով հարմարավետություն, անվտանգություն և անմոռանալի տպավորություններ։"
+    },
+    {
+      "id": "2",
+      "lang": "en",
+      "description": "Discover the world with confidence — we take care of every detail, ensuring comfort, safety, and unforgettable memories."
+    }
+  ],
+  "services_packages_heading": [
+    {
+      "id": "1",
+      "lang": "en",
+      "title": "Packages"
+    },
+    {
+      "id": "2",
+      "lang": "am",
+      "title": "Փաթեթներ"
+    }
+  ],
+  "services_packages": [
+    {
+      "id": "1",
+      "lang": "en",
+      "discount": "10%",
+      "image": "images/services/batumi.jpg",
+      "title": "Batumi",
+      "price": 12.99
+    },
+    {
+      "id": "2",
+      "lang": "en",
+      "discount": "15%",
+      "image": "images/services/chikago.jpg",
+      "title": "Chicago",
+      "price": 15.49
+    },
+    {
+      "id": "3",
+      "lang": "en",
+      "discount": "20%",
+      "image": "images/services/hongkong.jpg",
+      "title": "Hong Kong",
+      "price": 13.99
+    },
+    {
+      "id": "4",
+      "lang": "en",
+      "discount": "15%",
+      "image": "images/services/beauty4.jpg",
+      "title": "Maldives",
+      "price": 14.99
+    },
+    {
+      "id": "5",
+      "lang": "am",
+      "discount": "10%",
+      "image": "images/services/batumi.jpg",
+      "title": "Բաթումի",
+      "price": 12.99
+    },
+    {
+      "id": "6",
+      "lang": "am",
+      "discount": "15%",
+      "image": "images/services/chikago.jpg",
+      "title": "Շիկագո",
+      "price": 15.49
+    },
+    {
+      "id": "7",
+      "lang": "am",
+      "discount": "20%",
+      "image": "images/services/hongkong.jpg",
+      "title": "Հոնգ Կոնգ",
+      "price": 13.99
+    },
+    {
+      "id": "8",
+      "lang": "am",
+      "discount": "15%",
+      "image": "images/services/beauty4.jpg",
+      "title": "Մալդիվներ",
+      "price": 14.99
+    }
+  ],
+
+  "contact_hero": [
+    {
+      "id": "1",
+      "lang": "en",
+      "image": "images/contact/contactHero.avif",
+      "text": "Contact"
+    },
+    {
+      "id": "2",
+      "lang": "am",
+      "image": "images/contact/contactHero.avif",
+      "text": "Կապ մեզ հետ"
+    }
+  ],
+  "contact_question_heading": [
+    {
+      "id": 1,
+      "lang": "en",
+      "title": "Frecuently Asked Questions"
+    },
+    {
+      "id": 2,
+      "lang": "am",
+      "title": "Հաճախ տրվող հարցեր"
+    }
+  ],
+  "contact_question_section": [
+    {
+      "id": 1,
+      "lang": "en",
+      "title": "Where can I start planning my trip?",
+      "description": "You can start planning your trip by choosing your destination, travel dates, and budget. Our platform provides tools and recommendations to help you organize everything easily.",
+      "image": "images/contact/arrow.svg"
+    },
+    {
+      "id": 2,
+      "lang": "en",
+      "title": "Can I modify or cancel a booked tour?",
+      "description": "Yes, most tours can be modified or canceled depending on the provider’s policy. You can check the cancellation terms in your booking details or contact our support team for assistance.",
+      "image": "images/contact/arrow.svg"
+    },
+    {
+      "id": 3,
+      "lang": "en",
+      "title": "Do you offer travel insurance?",
+      "description": "Yes, we offer travel insurance options to ensure your trip is safe and worry-free. You can choose an insurance package during the booking process.",
+      "image": "images/contact/arrow.svg"
+    },
+    {
+      "id": 4,
+      "lang": "en",
+      "title": "How know if I need a visa for chosen destination?",
+      "description": "You can check visa requirements based on your nationality directly on our platform or consult official government websites for accurate and updated information.",
+      "image": "images/contact/arrow.svg"
+    },
+    {
+      "id": 5,
+      "lang": "en",
+      "title": "Do you organize group tours?",
+      "description": "Yes, we organize both individual and group tours to various destinations. Group tours include guide services, planned activities, and special discounts.",
+      "image": "images/contact/arrow.svg"
+    },
+
+    {
+      "id": 6,
+      "lang": "am",
+      "title": "Որտեղի՞ց կարող եմ սկսել իմ ուղևորությունը պլանավորել։",
+      "description": "Կարող եք սկսել՝ ընտրելով ուղղությունը, ճանապարհորդության ամսաթվերը և բյուջեն։ Մեր հարթակը տրամադրում է խորհուրդներ և գործիքներ՝ ձեր ճանապարհորդությունը հեշտ կազմակերպելու համար։",
+      "image": "images/contact/arrow.svg"
+    },
+    {
+      "id": 7,
+      "lang": "am",
+      "title": "Կարո՞ղ եմ փոփոխել կամ չեղարկել արդեն ամրագրված տուրը։",
+      "description": "Այո՛, շատ տուրեր կարելի է փոխել կամ չեղարկել՝ կախված մատակարարի քաղաքականությունից։ Տուրի պայմանները կարող եք տեսնել ամրագրման էջում կամ կապ հաստատել մեր աջակցման թիմի հետ։",
+      "image": "images/contact/arrow.svg"
+    },
+    {
+      "id": 8,
+      "lang": "am",
+      "title": "Ձե՞ր կողմից տրամադրվում է ճանապարհորդական ապահովագրություն։",
+      "description": "Այո՛, մենք առաջարկում ենք ճանապարհորդական ապահովագրության տարբեր փաթեթներ, որպեսզի ձեր ուղևորությունը լինի անվտանգ և անհոգ։ Կարող եք ընտրել ապահովագրությունը ամրագրման ընթացքում։",
+      "image": "images/contact/arrow.svg"
+    },
+    {
+      "id": 9,
+      "lang": "am",
+      "title": "Ինչպե՞ս իմանամ՝ ընտրած ուղղության համար վիզա անհրաժեշտ է, թե ոչ։",
+      "description": "Վիզայի պահանջները կարող եք ստուգել ըստ ձեր քաղաքացիության՝ մեր հարթակում կամ պաշտոնական պետական կայքերում՝ ստանալու ամենաթարմ տեղեկատվությունը։",
+      "image": "images/contact/arrow.svg"
+    },
+    {
+      "id": 10,
+      "lang": "am",
+      "title": "Կազմակերպո՞ւմ եք խմբային տուրեր։",
+      "description": "Այո՛, մենք կազմակերպում ենք ինչպես անհատական, այնպես էլ խմբային տուրեր։ Խմբային տուրերը ներառում են գիդի ծառայություններ, ծրագրված ակտիվություններ և հատուկ զեղչեր։",
+      "image": "images/contact/arrow.svg"
+    }
+  ],
+  "contact_details": [
+    {
+      "id": "1",
+      "lang": "am",
+      "description": "Բացահայտիր աշխարհը վստահությամբ․ մենք հոգ կտանենք յուրաքանչյուր մանրուքի մասին՝ ապահովելով հարմարավետություն, անվտանգություն և անմոռանալի տպավորություններ։"
+    },
+    {
+      "id": "2",
+      "lang": "en",
+      "description": "Discover the world with confidence — we take care of every detail, ensuring comfort, safety, and unforgettable memories."
+    }
+  ],
+  "contact_form": [
+    {
+      "id": 1,
+      "lang": "en",
+      "title": "Contact With Us",
+      "form_input_placeholder_name": "Enter your name",
+      "form_input_placeholder_email": "Enter your email",
+      "form_input_placeholder_message": "Enter your message",
+      "form_send_successfully": "Your email has been sent successfuly",
+      "form_send_error": "An error occured.",
+      "btn_text": "Send"
+    },
+    {
+      "id": 2,
+      "lang": "am",
+      "title": "Կապ մեզ հետ",
+      "form_input_placeholder_name": "Մուտքագրեք ձեր անունը",
+      "form_input_placeholder_email": "Մուտքագրեք ձեր էլ. հասցեն",
+      "form_input_placeholder_message": "Մուտքագրեք ձեր հաղորդագրությունը",
+      "form_send_successfully": "Ձեր նամակը հաջողությամբ ուղարկվեց",
+      "form_send_error": "Սխալ է տեղի ունեցել։",
+      "btn_text": "Ուղարկել"
+    }
+  ]
+}

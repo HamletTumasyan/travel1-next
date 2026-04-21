@@ -1,0 +1,26 @@
+.Details{
+    width: 100%;
+    background-color:#55adc8;
+    overflow: hidden;
+}
+
+.Details p{
+    font-size: 20px;
+    color: white;
+    width: 900px;
+    margin: auto;
+    text-align: center;
+    margin-top: 30px;
+}
+.stars{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    justify-content: center;
+    margin: 10px 0 20px 0;
+}
+
+.star{
+    color: white;
+    font-size: 24px;
+}
